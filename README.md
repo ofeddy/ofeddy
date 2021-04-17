@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Feddy
-- 👀 I’m interested in App Design and Development
-- 🌱 I’m currently learning HTML,CSS,PYTHON,JAVA SCRIPT @CS50
+- 👋 Hi, I’m @Feddy -Self taught and upcoming Web Dev Ethusiast
+- 👀 I’m interested in Modern Web App Design and Development
+- 🌱 I’m currently learning HTML,CSS,PYTHON,JAVA SCRIPT @CS50 
 - 💞️ I’m looking to collaborate on WEB APP PROJECTS
 - 📫 How to reach me OFEDDY09@GMAIL.COM
 
