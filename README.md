@@ -4,6 +4,7 @@
 - 🌱 My current stack is HTML,CSS (Tailwind/Bootstrap),PYTHON(Django,REST),JavaScript(REACT)
 - 💞️ I’m looking to collaborate on WEB APP PROJECTS (DJANGO)
 - 📫 How to reach me OFEDDY09@GMAIL.COM
+- Portfolio link > https://ofeddy.github.io/portfolio-site/
 
 <!---
 ofeddy/ofeddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
